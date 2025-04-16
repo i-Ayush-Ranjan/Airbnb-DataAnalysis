@@ -1,4 +1,4 @@
-Airbnb Data Analysis
+**Airbnb Data Analysis**
 📊 Project Overview
 This project involves analyzing Airbnb listings data to extract insights on pricing, availability, and location-based trends. Excel was used for data cleaning and preprocessing, while Tableau was employed for interactive data visualization.
 
